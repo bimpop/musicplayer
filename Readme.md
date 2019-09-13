@@ -1,0 +1,1 @@
+This simple Android application plays a pre-defined music.
